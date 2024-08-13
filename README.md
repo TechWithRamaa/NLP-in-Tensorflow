@@ -18,5 +18,5 @@ Building natural language processing systems using TensorFlow starting from proc
 
 4) https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Creating_Poetry_With_Bidirectional_LSTMs.ipynb
     * Developed a creative tool by building a poetry generator
-    * Drawing inspiration from traditional Irish songs and Shakespearean poetry, you trained your model to generate beautiful verses
+    * Drawing inspiration from traditional Irish songs and Shakespearean poetry, trained our model to generate beautiful verses
    
