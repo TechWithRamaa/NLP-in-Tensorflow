@@ -24,5 +24,5 @@ Building natural language processing systems using TensorFlow starting from proc
     * Developed a creative tool by building a poetry generator
     * Drawing inspiration from traditional Irish songs and Shakespearean poetry, trained our model to generate beautiful verses
     * Tokenizing, Generating n_grams, Padding, defined model with Embedding layer & Bidirectional LSTM, Generated verses with 100 words by inputting seed texts
-    * Dataset - [https://www.kaggle.com/c/learn-ai-bbc/data classifying articles into 5 categories ['tech', 'business', 'sport', 'sport', 'entertainment']](https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154)
+    * Dataset - [https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154]
    
