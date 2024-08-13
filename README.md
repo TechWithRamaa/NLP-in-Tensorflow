@@ -15,8 +15,10 @@ Building natural language processing systems using TensorFlow starting from proc
 
 3) https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Text_Classification_Keras_LSTMs.ipynb
     * Explored various model formats that help capture context (forward & backward), allowing for a more nuanced understanding of sentiment in text
-    * This deeper comprehension set the stage for something even more exciting: the ability to predict text
+    * Learnt best practices for defining Hyper parameters
+    * Adjusting hyper parameters & analyzing accuracy of neural network models with different Keras Layers like Conv1D, Dropout, GlobalMaxPooling1D, MaxPooling1D, LSTM and Bidirectional(LSTM)
     * Started experimenting with text prediction, laying the groundwork for creating entirely new sequences of words resulting in Poetry
+    * Dataset - https://www.kaggle.com/c/learn-ai-bbc/data classifying articles into 5 categories ['tech', 'business', 'sport', 'sport', 'entertainment']
 
 4) https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Creating_Poetry_With_Bidirectional_LSTMs.ipynb
     * Developed a creative tool by building a poetry generator
