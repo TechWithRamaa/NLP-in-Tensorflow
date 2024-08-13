@@ -6,6 +6,7 @@ Skills -> Natural Language Processing & Generating, Tokenizing, Generating n_gra
 These notebooks are submitted as part of assignments while completing a course in Coursera
 * https://www.coursera.org/learn/natural-language-processing-tensorflow
 
+Included notebooks are 
 1) https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Tokenization_Padding_in_Tensorflow.ipynb
    * Embarked on a journey into the world of Natural Language Processing (NLP) by learning how to tokenize words, transforming them into numbers that a machine can understand
    * This foundational knowledge paved the way for understanding how machines can begin to comprehend human language
