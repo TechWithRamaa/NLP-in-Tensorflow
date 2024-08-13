@@ -1,6 +1,8 @@
 # NLP-in-Tensorflow
 Building natural language processing systems using TensorFlow starting from processing text to generating poetry with neural networks (LSTMs)
 
+Skills -> Natural Language Processing & Generating, Tokenizing, Generating n_grams, Padding, Embeddings, Bidirectional LSTM, Hyper-Parameters, Tensorflow, Keras, Python
+
 1) https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Tokenization_Padding_in_Tensorflow.ipynb
    * Embarked on a journey into the world of Natural Language Processing (NLP) by learning how to tokenize words, transforming them into numbers that a machine can understand
    * This foundational knowledge paved the way for understanding how machines can begin to comprehend human language
@@ -24,5 +26,5 @@ Building natural language processing systems using TensorFlow starting from proc
     * Developed a creative tool by building a poetry generator
     * Drawing inspiration from traditional Irish songs and Shakespearean poetry, trained our model to generate beautiful verses
     * Tokenizing, Generating n_grams, Padding, defined model with Embedding layer & Bidirectional LSTM, Generated verses with 100 words by inputting seed texts
-    * Dataset - [https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154]
+    * Dataset - https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154
    
