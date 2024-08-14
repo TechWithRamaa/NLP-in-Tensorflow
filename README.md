@@ -16,7 +16,7 @@ Included notebooks are
    * Explored Embeddings
    * These powerful tools map our vocabulary into higher-dimensional space, allowing the machine to grasp the subtleties of word meanings
    * Learned how words with similar sentiments are clustered together, and how the direction of these vectors can reveal the underlying emotions in text
-   * The introduction of subword tokenization further enriched your understanding, highlighting the importance of not just the words themselves, but also the sequence in which they appear
+   * The introduction of subword tokenization further highlighted the importance of not just the words themselves, but also the sequence in which they appear
    * Dataset - https://www.kaggle.com/c/learn-ai-bbc/data classifying articles into 5 categories ['tech', 'business', 'sport', 'sport', 'entertainment']
 
 3) https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Text_Classification_Keras_LSTMs.ipynb
