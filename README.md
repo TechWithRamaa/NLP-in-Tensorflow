@@ -17,7 +17,7 @@ Included notebooks are
    * These powerful tools map our vocabulary into higher-dimensional space, allowing the machine to grasp the subtleties of word meanings
    * Learned how words with similar sentiments are clustered together, and how the direction of these vectors can reveal the underlying emotions in text
    * The introduction of subword tokenization further highlighted the importance of not just the words themselves, but also the sequence in which they appear
-   * Dataset - [kaggle/bbc](https://www.kaggle.com/c/learn-ai-bbc/data classifying articles into 5 categories ['tech', 'business', 'sport', 'sport', 'entertainment'])
+   * Dataset - [kaggle/bbc](https://www.kaggle.com/c/learn-ai-bbc/data classifying articles into 5 categories) ['tech', 'business', 'sport', 'sport', 'entertainment']
 
 3) [Text_Classification_Keras_LSTMs.ipynb](https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Text_Classification_Keras_LSTMs.ipynb)
     * Explored various model formats that help capture context (forward & backward), allowing for a more nuanced understanding of sentiment in text
